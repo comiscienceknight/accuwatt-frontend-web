@@ -1,0 +1,13 @@
+.navigation {
+  .ant-menu-item {
+    a {
+      transition: inherit;
+      color: rgba(0,0,0,0.6);
+    }
+    &:hover {
+      a {
+        color: inherit;
+      }
+    }
+  }
+}

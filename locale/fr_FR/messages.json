@@ -1,0 +1,1064 @@
+{
+  "Account": {
+    "translation": "Compte",
+    "origin": [
+      [
+        "src\\components\\AppLayout.js",
+        94
+      ]
+    ]
+  },
+  "Orders": {
+    "translation": "Commandes",
+    "origin": [
+      [
+        "src\\components\\Breadcrumb.js",
+        9
+      ],
+      [
+        "src\\components\\Navigation.js",
+        51
+      ]
+    ]
+  },
+  "Serials Management": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\Breadcrumb.js",
+        10
+      ],
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\SerialOrderFilter.js",
+        53
+      ]
+    ]
+  },
+  "Maker Order": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\Breadcrumb.js",
+        11
+      ]
+    ]
+  },
+  "Draft": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\Breadcrumb.js",
+        12
+      ],
+      [
+        "src\\components\\Navigation.js",
+        44
+      ]
+    ]
+  },
+  "Not Found": {
+    "translation": "Non trouvé",
+    "origin": [
+      [
+        "src\\components\\Breadcrumb.js",
+        28
+      ]
+    ]
+  },
+  "Home": {
+    "translation": "Accueil",
+    "origin": [
+      [
+        "src\\components\\Breadcrumb.js",
+        44
+      ],
+      [
+        "src\\components\\Navigation.js",
+        27
+      ]
+    ]
+  },
+  "My new awesome title": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\ChatWidget.js",
+        17
+      ]
+    ]
+  },
+  "And my cool subtitle": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\ChatWidget.js",
+        18
+      ]
+    ]
+  },
+  "Type a message...": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\ChatWidget.js",
+        19
+      ]
+    ]
+  },
+  "Enter your email": {
+    "translation": "Entrer votre Email",
+    "origin": [
+      [
+        "src\\components\\LoginPage.js",
+        39
+      ]
+    ]
+  },
+  "Enter your password": {
+    "translation": "Entrer votre mot de passe",
+    "origin": [
+      [
+        "src\\components\\LoginPage.js",
+        46
+      ]
+    ]
+  },
+  "Log in": {
+    "translation": "S'identifier",
+    "origin": [
+      [
+        "src\\components\\LoginPage.js",
+        50
+      ],
+      [
+        "src\\components\\LoginPage.js",
+        56
+      ]
+    ]
+  },
+  "Sign up": {
+    "translation": "S'inscrire",
+    "origin": [
+      [
+        "src\\components\\LoginPage.js",
+        57
+      ]
+    ]
+  },
+  "Log out": {
+    "translation": "Se déconnecter",
+    "origin": [
+      [
+        "src\\components\\LogoutLink.js",
+        9
+      ]
+    ]
+  },
+  "Total orders": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\home\\Home.js",
+        43
+      ]
+    ]
+  },
+  "Confirmed order": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\home\\Home.js",
+        55
+      ]
+    ]
+  },
+  "Waiting quotation": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\home\\Home.js",
+        67
+      ]
+    ]
+  },
+  "Finished orders": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\home\\Home.js",
+        79
+      ]
+    ]
+  },
+  "Below Euro3": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\makeOrder\\components\\MakeOrderBasicForm.js",
+        517
+      ]
+    ]
+  },
+  "Euro3": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\makeOrder\\components\\MakeOrderBasicForm.js",
+        520
+      ]
+    ]
+  },
+  "Euro4": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\makeOrder\\components\\MakeOrderBasicForm.js",
+        523
+      ]
+    ]
+  },
+  "Euro5": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\makeOrder\\components\\MakeOrderBasicForm.js",
+        526
+      ]
+    ]
+  },
+  "Euro6": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\makeOrder\\components\\MakeOrderBasicForm.js",
+        529
+      ]
+    ]
+  },
+  "Driver speaks:": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\makeOrder\\components\\MakeOrderBasicForm.js",
+        539
+      ]
+    ]
+  },
+  "For the following options, check those items that will be paid by coach companies.": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\makeOrder\\components\\MakeOrderBasicForm.js",
+        593
+      ]
+    ]
+  },
+  "During quotation, order cannot be modified. Please contact Tudinger for requiring permit of modification": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\makeOrder\\MakeOrder.js",
+        194
+      ]
+    ]
+  },
+  "Finished Order detail cannot be modified": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\makeOrder\\MakeOrder.js",
+        199
+      ]
+    ]
+  },
+  "Modification is not allowd after the submit of quotation": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\makeOrder\\MakeOrder.js",
+        205
+      ]
+    ]
+  },
+  "Please click button below for TudingBus allowing you resubmit your final program. TudingBus service will check your request and give you a feedback as soon as possible.": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\makeOrder\\MakeOrder.js",
+        206
+      ]
+    ]
+  },
+  "Page not found!": {
+    "translation": "Page non trouvée!",
+    "origin": [
+      [
+        "src\\components\\modules\\notFound\\NotFoundPage.js",
+        19
+      ]
+    ]
+  },
+  "Go back to the main page": {
+    "translation": "Retournez à la page d'accueil",
+    "origin": [
+      [
+        "src\\components\\modules\\notFound\\NotFoundPage.js",
+        21
+      ]
+    ]
+  },
+  "Join serial": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\AddToSerialModal.js",
+        65
+      ],
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\OrderActionsCell.js",
+        146
+      ],
+      [
+        "src\\components\\modules\\orders\\serialsManagement\\EditSerialModal.js",
+        68
+      ]
+    ]
+  },
+  "Select an option": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\AddToSerialModal.js",
+        75
+      ],
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\CopyOrderModal.js",
+        91
+      ]
+    ]
+  },
+  "Order details :": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\BusesDetailTable.js",
+        60
+      ],
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\OrderActionsCell.js",
+        174
+      ]
+    ]
+  },
+  "Date time": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\BusesDetailTable.js",
+        70
+      ],
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\QuotationDetailTable.js",
+        22
+      ]
+    ]
+  },
+  "Start place": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\BusesDetailTable.js",
+        77
+      ],
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\QuotationDetailTable.js",
+        29
+      ]
+    ]
+  },
+  "End place": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\BusesDetailTable.js",
+        78
+      ],
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\QuotationDetailTable.js",
+        30
+      ]
+    ]
+  },
+  "Guide name": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\BusesDetailTable.js",
+        79
+      ]
+    ]
+  },
+  "Guide phone number": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\BusesDetailTable.js",
+        80
+      ]
+    ]
+  },
+  "Leader name": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\BusesDetailTable.js",
+        81
+      ]
+    ]
+  },
+  "Leader phone number": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\BusesDetailTable.js",
+        82
+      ]
+    ]
+  },
+  "Copy order": {
+    "translation": "Copier la commande",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\CopyOrderModal.js",
+        72
+      ],
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\OrderActionsCell.js",
+        134
+      ]
+    ]
+  },
+  "How much to be copied?": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\CopyOrderModal.js",
+        80
+      ]
+    ]
+  },
+  "Add to a serial?": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\CopyOrderModal.js",
+        88
+      ]
+    ]
+  },
+  "Do not add to serial": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\CopyOrderModal.js",
+        93
+      ]
+    ]
+  },
+  "Are you sure to delete this order?": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\OrderActionsCell.js",
+        31
+      ]
+    ]
+  },
+  "Edit order": {
+    "translation": "Modifier la commande",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\OrderActionsCell.js",
+        128
+      ]
+    ]
+  },
+  "Delete order": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\OrderActionsCell.js",
+        140
+      ]
+    ]
+  },
+  "Remove from serial": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\OrderActionsCell.js",
+        152
+      ]
+    ]
+  },
+  "Show Details": {
+    "translation": "Montrer les détails",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\OrderActionsCell.js",
+        160
+      ]
+    ]
+  },
+  "More Actions": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderActions\\OrderActionsCell.js",
+        163
+      ]
+    ]
+  },
+  "Please fill out": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\EditableLeaderGuideInfoCell.js",
+        109
+      ]
+    ]
+  },
+  "No quotation received.": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\OrderExpandedRow.js",
+        12
+      ]
+    ]
+  },
+  "Bus mark": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\QuotationDetailTable.js",
+        31
+      ]
+    ]
+  },
+  "Bus plate number": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\QuotationDetailTable.js",
+        32
+      ]
+    ]
+  },
+  "Bus emission standard": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\QuotationDetailTable.js",
+        33
+      ]
+    ]
+  },
+  "Number of seats": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\QuotationDetailTable.js",
+        34
+      ]
+    ]
+  },
+  "Year of manufacture": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\QuotationDetailTable.js",
+        35
+      ]
+    ]
+  },
+  "Driver speaking languages": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\QuotationDetailTable.js",
+        36
+      ]
+    ]
+  },
+  "Bus Note": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\QuotationDetailTable.js",
+        37
+      ]
+    ]
+  },
+  "Supplier Note": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\QuotationDetailTable.js",
+        38
+      ]
+    ]
+  },
+  "Buses detail": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\ShowBusesDetailExpandedRow.js",
+        45
+      ]
+    ]
+  },
+  "Total sell price": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\ShowQuotationsExpandedRow.js",
+        79
+      ]
+    ]
+  },
+  "Number of buses": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\ShowQuotationsExpandedRow.js",
+        80
+      ]
+    ]
+  },
+  "Note": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\ShowQuotationsExpandedRow.js",
+        81
+      ],
+      [
+        "src\\components\\modules\\orders\\serialsManagement\\EditSerialModal.js",
+        84
+      ],
+      [
+        "src\\components\\modules\\orders\\serialsManagement\\EditSerialModal.js",
+        88
+      ],
+      [
+        "src\\components\\modules\\orders\\serialsManagement\\SerialsList.js",
+        20
+      ]
+    ]
+  },
+  "Accept": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\ShowQuotationsExpandedRow.js",
+        84
+      ]
+    ]
+  },
+  "Are you sure to accept this quotation?": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\ShowQuotationsExpandedRow.js",
+        95
+      ]
+    ]
+  },
+  "Received quotations": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\ShowQuotationsExpandedRow.js",
+        104
+      ]
+    ]
+  },
+  "Quotation details": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\orderExpandedRow\\ShowQuotationsExpandedRow.js",
+        118
+      ]
+    ]
+  },
+  "Copied": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\OrderStatusCell.js",
+        19
+      ]
+    ]
+  },
+  "Pending": {
+    "translation": "En attendant",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\OrderStatusCell.js",
+        25
+      ]
+    ]
+  },
+  "Refused": {
+    "translation": "Refusé",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\OrderStatusCell.js",
+        30
+      ]
+    ]
+  },
+  "Bid Placed": {
+    "translation": "Enchère placée",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\OrderStatusCell.js",
+        36
+      ]
+    ]
+  },
+  "Waiting Bid": {
+    "translation": "En attente d'enchère",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\OrderStatusCell.js",
+        36
+      ]
+    ]
+  },
+  "Pre-confirmed": {
+    "translation": "Pré-confirmé",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\OrderStatusCell.js",
+        41
+      ]
+    ]
+  },
+  "Final Program Submited": {
+    "translation": "Programme final soumis",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\OrderStatusCell.js",
+        49
+      ]
+    ]
+  },
+  "Final Program Accepted": {
+    "translation": "Programme final accepté",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\OrderStatusCell.js",
+        51
+      ]
+    ]
+  },
+  "Asking Resubmit Final Program": {
+    "translation": "Demande de resoumettre le programme final",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\OrderStatusCell.js",
+        53
+      ]
+    ]
+  },
+  "Confirmed": {
+    "translation": "Confirmé",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\OrderStatusCell.js",
+        55
+      ]
+    ]
+  },
+  "Finished (Unpaid)": {
+    "translation": "Terminé (impayé)",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\OrderStatusCell.js",
+        65
+      ]
+    ]
+  },
+  "Finished": {
+    "translation": "Terminé",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\OrderStatusCell.js",
+        67
+      ]
+    ]
+  },
+  "Search": {
+    "translation": "Recherche",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\SearchField.js",
+        44
+      ]
+    ]
+  },
+  "Serial Orders Filter": {
+    "translation": "Filtre de commandes en série",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\SerialOrderFilter.js",
+        42
+      ]
+    ]
+  },
+  "None": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\components\\SerialOrderFilter.js",
+        48
+      ]
+    ]
+  },
+  "Total:": {
+    "translation": "Total:",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\OrdersList.js",
+        32
+      ]
+    ]
+  },
+  "Order ID": {
+    "translation": "Commande ID",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\OrdersList.js",
+        39
+      ]
+    ]
+  },
+  "Actions": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\OrdersList.js",
+        40
+      ],
+      [
+        "src\\components\\modules\\orders\\serialsManagement\\SerialsList.js",
+        21
+      ]
+    ]
+  },
+  "Order Status": {
+    "translation": "Statut de la commande",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\OrdersList.js",
+        45
+      ]
+    ]
+  },
+  "Group Number": {
+    "translation": "Numéro de groupe",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\OrdersList.js",
+        49
+      ]
+    ]
+  },
+  "Start Date": {
+    "translation": "Date de début",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\OrdersList.js",
+        51
+      ]
+    ]
+  },
+  "End Date": {
+    "translation": "Date de fin",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\OrdersList.js",
+        57
+      ]
+    ]
+  },
+  "Start City": {
+    "translation": "Ville de départ",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\OrdersList.js",
+        62
+      ]
+    ]
+  },
+  "End City": {
+    "translation": "Ville de fin",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\OrdersList.js",
+        63
+      ]
+    ]
+  },
+  "Pax": {
+    "translation": "Pax",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\OrdersList.js",
+        64
+      ]
+    ]
+  },
+  "Search in order ID and group number": {
+    "translation": "Recherche dans l'ID de la commande et le numéro de groupe",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\OrdersList.js",
+        182
+      ]
+    ]
+  },
+  "Reload": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\ordersManagement\\OrdersList.js",
+        189
+      ]
+    ]
+  },
+  "Serial Name": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\serialsManagement\\EditSerialModal.js",
+        75
+      ]
+    ]
+  },
+  "Name": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\serialsManagement\\EditSerialModal.js",
+        79
+      ],
+      [
+        "src\\components\\modules\\orders\\serialsManagement\\SerialsList.js",
+        19
+      ]
+    ]
+  },
+  "Are you sure to delete this serial?": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\serialsManagement\\SerialActionsCell.js",
+        18
+      ]
+    ]
+  },
+  "Edit": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\serialsManagement\\SerialActionsCell.js",
+        53
+      ]
+    ]
+  },
+  "Delete": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\serialsManagement\\SerialActionsCell.js",
+        56
+      ]
+    ]
+  },
+  "Add a serial": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\modules\\orders\\serialsManagement\\SerialsList.js",
+        68
+      ]
+    ]
+  },
+  "Edit Orders": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\Navigation.js",
+        33
+      ]
+    ]
+  },
+  "Make Order": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\Navigation.js",
+        38
+      ]
+    ]
+  },
+  "Contacts": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\Navigation.js",
+        70
+      ]
+    ]
+  },
+  "+33 (0)9 67 23 39 59": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\Navigation.js",
+        76
+      ]
+    ]
+  },
+  "+33 (0)7 69 69 02 20": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\Navigation.js",
+        82
+      ]
+    ]
+  },
+  "reservation@tuding.fr": {
+    "translation": "",
+    "origin": [
+      [
+        "src\\components\\Navigation.js",
+        88
+      ]
+    ]
+  },
+  "Logging you in...": {
+    "translation": "Connexion en cours...",
+    "origin": [
+      [
+        "src\\utils\\Authentication\\Logging.js",
+        11
+      ]
+    ]
+  }
+}

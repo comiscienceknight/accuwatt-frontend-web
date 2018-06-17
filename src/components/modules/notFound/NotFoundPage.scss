@@ -1,0 +1,15 @@
+.not-found {
+  min-height: calc(100vh - 135px);
+  background: #ECECEC;
+  padding: 0;
+  text-align: center;
+  margin: -30px;
+  position: relative;
+  white-space: nowrap;
+  .not-found-inner {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+  }
+}

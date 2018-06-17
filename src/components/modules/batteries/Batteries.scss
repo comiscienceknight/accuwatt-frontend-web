@@ -1,0 +1,57 @@
+.orders-list-wrapper {
+  .filters {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    .right {
+      display: flex;
+      & > * {
+        &:not(:last-child) {
+          margin-right: 10px;
+        }
+      }
+    }
+  }
+  .orders-list {
+    height: calc(100vh - 234px);
+    min-height: calc(100vh - 234px);
+    max-height: calc(100vh - 234px);
+    .ant-spin-nested-loading {
+      height: 100%;
+      .ant-spin-container{
+        height: 100%;
+        .ant-table {
+          height: calc(100% - 60px);
+          min-height: calc(100% - 60px);
+          max-height: calc(100% - 60px);
+          .ant-table-content {
+            height: 100%;
+            .ant-table-body{
+              height: 100%;
+              overflow: auto;
+              border: 1px solid #e9e9e9;
+              table {
+                border-top-left-radius: 0;
+                border-top-right-radius: 0;
+                .ant-table-thead > tr > th, .ant-table-tbody > tr > td {
+                  word-break: normal;
+                }
+                .ant-table-thead > tr > th {
+                  border-bottom: 1px solid #e9e9e9;
+                }
+              }
+            }
+          }
+        }
+        .ant-table-pagination {
+          float: none;
+        }
+      }
+    }
+  }
+}
+
+.ant-tabs-tab {
+  margin-right: 0px !important;
+  paddig-right: 5px !important;
+}
